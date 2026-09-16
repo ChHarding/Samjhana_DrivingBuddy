@@ -1,1 +1,2 @@
 # Samjhana_DrivingBuddy
+Safe Driving Buddy is a web application that helps drivers identify potentially dangerous roads and intersections before they travel. The app allows users to enter a city and state, then displays a map showing locations where traffic accidents have occurred. By visualizing accident data, the application helps drivers become more aware of high-risk areas and make safer travel decisions.
